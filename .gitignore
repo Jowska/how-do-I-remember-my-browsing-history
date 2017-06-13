@@ -1,0 +1,11 @@
+browserHistory.json
+settings.json
+
+# node
+node_modules
+build
+npm-debug.log
+
+# system
+.env
+.DS_Store
